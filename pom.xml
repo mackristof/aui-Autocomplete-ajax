@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>org.mackristof.portlet</groupId>
-	<artifactId>autocomplete-jquery-portlet</artifactId>
+	<artifactId>autocomplete-portlet</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>autocomplete jquery portlet</name>
+	<name>autocomplete portlet</name>
 	<build>
 		<sourceDirectory>${basedir}/docroot/WEB-INF/src</sourceDirectory>
 		<outputDirectory>${basedir}/docroot/WEB-INF/classes</outputDirectory>
